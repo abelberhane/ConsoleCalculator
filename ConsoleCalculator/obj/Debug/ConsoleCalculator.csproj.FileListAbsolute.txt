@@ -1,0 +1,6 @@
+c:\users\aberhane\documents\visual studio 2017\Projects\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+c:\users\aberhane\documents\visual studio 2017\Projects\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+c:\users\aberhane\documents\visual studio 2017\Projects\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojResolveAssemblyReference.cache
+c:\users\aberhane\documents\visual studio 2017\Projects\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
